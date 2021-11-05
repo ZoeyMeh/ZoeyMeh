@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZoeyMeh
 - 👀 I’m interested in Coding. 
-- 🌱 I’m currently learning  Python , sql, tableau, etc. 
+- 🌱 I’m currently learning  Python , SQL SERVER , Tableau, etc. 
 
 
 <!---
