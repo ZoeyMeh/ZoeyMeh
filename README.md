@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZoeyMeh
+- 👋 Hi, I’m @Zoey Mehrabi
 - 👀 I’m interested in Coding. 
 - 🌱 I’m currently learning  Python , SQL SERVER , Tableau, etc. 
 
